@@ -12,7 +12,7 @@ AS:ASM:016:American Samoa
 AT:AUT:040:Austria
 AU:AUS:036:Australia
 AW:ABW:533:Aruba
-AX:ALA:248:Åland Islands
+AX:ALA:248:Aland Islands
 AZ:AZE:031:Azerbaijan
 BA:BIH:070:Bosnia and Herzegovina
 BB:BRB:052:Barbados
@@ -23,7 +23,7 @@ BG:BGR:100:Bulgaria
 BH:BHR:048:Bahrain
 BI:BDI:108:Burundi
 BJ:BEN:204:Benin
-BL:BLM:652:Saint Barthélemy
+BL:BLM:652:Saint Barthelemy
 BM:BMU:060:Bermuda
 BN:BRN:096:Brunei
 BO:BOL:068:Bolivia
@@ -41,7 +41,7 @@ CD:COD:180:Congo - Kinshasa:Congo (DRC)
 CF:CAF:140:Central African Republic
 CG:COG:178:Congo - Brazzaville:Congo (Republic)
 CH:CHE:756:Switzerland
-CI:CIV:384:Côte d’Ivoire:Ivory Coast
+CI:CIV:384:Cote d'Ivoire:Ivory Coast
 CK:COK:184:Cook Islands
 CL:CHL:152:Chile
 CM:CMR:120:Cameroon
@@ -50,7 +50,7 @@ CO:COL:170:Colombia
 CR:CRI:188:Costa Rica
 CU:CUB:192:Cuba
 CV:CPV:132:Cape Verde
-CW:CUW:531:Curaçao
+CW:CUW:531:Curacao
 CX:CXR:162:Christmas Island
 CY:CYP:196:Cyprus
 CZ:CZE:203:Czech Republic
@@ -185,7 +185,7 @@ PT:PRT:620:Portugal
 PW:PLW:585:Palau
 PY:PRY:600:Paraguay
 QA:QAT:634:Qatar
-RE:REU:638:Réunion
+RE:REU:638:Reunion
 RO:ROU:642:Romania
 RS:SRB:688:Serbia
 RU:RUS:643:Russia
@@ -206,7 +206,7 @@ SN:SEN:686:Senegal
 SO:SOM:706:Somalia
 SR:SUR:740:Suriname
 SS:SSD:728:South Sudan
-ST:STP:678:São Tomé and Príncipe
+ST:STP:678:Sao Tome and Principe
 SV:SLV:222:El Salvador
 SX:SXM:534:Sint Maarten
 SY:SYR:760:Syria

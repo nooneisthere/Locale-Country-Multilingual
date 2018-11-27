@@ -2,6 +2,10 @@ Revision history for Locale-Country-Multilingual
 
 {{$NEXT}}
 
+0.26     2018-11-27
+
+- Flatten English language files to their ASCII alternative
+
 0.25     2014-08-22
 
 - Moved to Dist::Zilla.
