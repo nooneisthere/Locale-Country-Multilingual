@@ -28,6 +28,7 @@ BL:BLM:652:聖巴托洛繆島
 BM:BMU:060:百慕達
 BN:BRN:096:汶萊
 BO:BOL:068:玻利維亞
+BQ:BES:535:加勒比荷蘭
 BR:BRA:076:巴西
 BS:BHS:044:巴哈馬
 BT:BTN:064:不丹
@@ -50,6 +51,7 @@ CO:COL:170:哥倫比亞
 CR:CRI:188:哥斯大黎加
 CU:CUB:192:古巴
 CV:CPV:132:維德角
+CW:CUW:531:庫拉索
 CX:CXR:162:聖誕島
 CY:CYP:196:塞普勒斯
 CZ:CZE:203:捷克
@@ -204,8 +206,10 @@ SM:SMR:674:聖馬利諾
 SN:SEN:686:塞內加爾
 SO:SOM:706:索馬利亞
 SR:SUR:740:蘇利南
+SS:SSD:728:南蘇丹
 ST:STP:678:聖多美普林西比
 SV:SLV:222:薩爾瓦多
+SX:SXM:534:聖馬丁島
 SY:SYR:760:敘利亞
 SZ:SWZ:748:史瓦濟蘭
 TC:TCA:796:土克斯及開科斯群島
