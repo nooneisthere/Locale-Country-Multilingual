@@ -1,6 +1,6 @@
 #!perl -T
 
-use Test::More tests => 13;
+use Test::More tests => 16;
 
 use Locale::Country::Multilingual;
 my $lcm = Locale::Country::Multilingual->new();
@@ -29,6 +29,15 @@ is($country, '中国', "code2country('cn', 'zh_CN') works");
 $lcm->set_lang('en');
 my $code    = $lcm->country2code('Norway');
 is($code, 'NO', "alpha2: country2code('Norway') works");
+
+#new added alias name test
+$code    = $lcm->country2code('Macao S.A.R');
+is($code, 'MO', "country2code('Macao S.A.R') works");
+$code    = $lcm->country2code('u.a.E');
+is($code, 'AE', "country2code('u.a.E') works");
+$code    = $lcm->country2code('Hong Kong S.A.R.');
+is($code, 'HK', "country2code('Hong Kong S.A.R.') works");
+
 
 my $CODE = 'LOCALE_CODE_ALPHA_2';
 $code    = $lcm->country2code('Norway', $CODE);    # $code gets 'no'
