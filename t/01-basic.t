@@ -31,10 +31,10 @@ my $code    = $lcm->country2code('Norway');
 is($code, 'NO', "alpha2: country2code('Norway') works");
 
 #new added alias name test
-$code    = $lcm->country2code('Macao S.A.R');
-is($code, 'MO', "country2code('Macao S.A.R') works");
-$code    = $lcm->country2code('u.a.E');
-is($code, 'AE', "country2code('u.a.E') works");
+$code    = $lcm->country2code('Macao S.A.R.');
+is($code, 'MO', "country2code('Macao S.A.R.') works");
+$code    = $lcm->country2code('u.a.E.');
+is($code, 'AE', "country2code('u.a.E.') works");
 $code    = $lcm->country2code('Hong Kong S.A.R.');
 is($code, 'HK', "country2code('Hong Kong S.A.R.') works");
 
